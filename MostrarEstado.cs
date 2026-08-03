@@ -2,8 +2,8 @@
 
 namespace Entrevista{
 public partial class Programa{
-	
 	static void MostrarEstado(){
+		
        Console.WriteLine("Estados de postulantes:");
 
         for (int i=0;i<cantEstudiantes;i++){
