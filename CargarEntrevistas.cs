@@ -1,11 +1,9 @@
 ﻿using System;
 
-namespace Entrevista
-{
-public partial class Programa
-{
-static void CargarEntrevistas()
-{
+namespace Entrevista{
+public partial class Programa{
+static void CargarEntrevistas(){
+    
     Console.Write("Ingrese el legajo del postulante: ");
     int legajoBuscado = Convert.ToInt32(Console.ReadLine());
 
