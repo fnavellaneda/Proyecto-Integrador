@@ -42,22 +42,14 @@ public static void Main(){
           
         switch(opciones)
         {
-    case 1: CargarPostulante();
-        break;
-    case 2: CalcularPromedios();
-        break;    
-    case 3: MostrarRechazados();
-        break;
-    case 4: MostrarBecados();
-        break;
-    case 5: CargarEntrevistas();
-        break;
-    case 6: BuscarPorLegajo();
-        break;
-    case 7: MostrarEstado();
-    	break;
+    case 1: CargarPostulante(); break;
+    case 2: CalcularPromedios(); break;    
+    case 3: MostrarRechazados(); break;
+    case 4: MostrarBecados(); break;
+    case 5: CargarEntrevistas(); break;
+    case 6: BuscarPorLegajo(); break;
+    case 7: MostrarEstado(); break;
        default: 
-       
         Console.WriteLine("Ingrese una opción valida...");
         break;
  }
