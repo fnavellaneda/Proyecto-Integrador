@@ -50,7 +50,7 @@ public static void Main(){
     case 6: BuscarPorLegajo(); break;
     case 7: MostrarEstado(); break;
        default: 
-        Console.WriteLine("Ingrese una opción valida...");
+        Console.WriteLine("Ingrese una opción valida");
         break;
  }
         if(opciones !=8) {
