@@ -7,10 +7,10 @@ Realizado por: Franco Avellaneda.
 Legajo: 101345.
 _________________________________
 
-## Implemente en el TP:
-# Sentencias do, for, while. If, else. Métodos y funciones. Arrays. Registros. Operadores 
-# relacionales. Operadores aritméticos. Variables int, string, double. Miembros. Clases. Clases 
-# parciales. Entre otros.
+# Implemente en el TP:
+## Sentencias do, for, while. If, else. Métodos y funciones. Arrays. Registros. Operadores 
+## relacionales. Operadores aritméticos. Variables int, string, double. Miembros. Clases. Clases 
+## parciales. Entre otros.
 
 Bibliografía consultada:
 
